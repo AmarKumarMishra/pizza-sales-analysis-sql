@@ -1,6 +1,6 @@
 # 🍕 PizzaHut SQL Analysis
 
-This project contains SQL queries to analyze PizzaHut order data.
+This project contains SQL queries to analyze PizzaHut order data using MySQL.
 
 ## 📦 Tables Used
 - orders
@@ -16,4 +16,15 @@ This project contains SQL queries to analyze PizzaHut order data.
 - Revenue by pizza category
 
 ## 📁 File
-- `pizzahut_analysis.sql`: Contains all schema & queries
+- `pizzahut_analysis.sql`: Contains all table schema & analytical queries
+
+---
+
+## 🙌 Special Credit
+This project was created by following tutorials and guidance from  
+**wsCube Tech - Ayushi Jain** on YouTube.  
+A huge thanks for the valuable learning content!
+
+
+## ✍️ Author
+Made with ❤️ by [Your Name]
